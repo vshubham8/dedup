@@ -13,7 +13,7 @@ Functionalities provided by this tool:
 **Files to Run**
 ================
 1)Open Terminal and run file with name 'deduplication.py'
-------------
+-----------
 **Output:**
 -----------
 - On terminal deduplicated records will be showed !
