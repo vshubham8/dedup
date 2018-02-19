@@ -17,10 +17,15 @@ Functionalities provided by this tool:
 - Now the similarity between text1 and text2 = 0.75
 ----
 cos(theta) = v1.v2/(||v1||.||v2||)
+----
 where, v1 and v2 are vectors derived from text1 and text2
+----
 and ||x|| means norm of vector x.
+----
 So, here v1 = [1 1 1 1] and v2 = [1 1 1 0]
+----
 thus, Similarity = cos(theta) = 0.75
+----
 and a threshold is set by analysing the facts to capture similar words.
 -----------------------------------------------------
 **Files to Run**
