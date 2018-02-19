@@ -8,7 +8,7 @@ Functionalities provided by this tool:
 -----------------------------------------------------
 **Technique Used: Cosine Similarity**
 -----------------------------------------------------
-- Description given in 'Workflow.pdf' document
+- Description given in 'workflow.pdf' document
 -----------------------------------------------------
 **Files to Run**
 ================
